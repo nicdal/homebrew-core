@@ -57,6 +57,7 @@ class Postgresql < Formula
       --with-openssl
       --with-pam
       --with-perl
+      --with-python
       --with-tcl
       --with-uuid=e2fs
     ]
